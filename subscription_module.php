@@ -68,7 +68,7 @@ var options = {
     "subscription_id": "<?php echo $result['id']; ?>",                                           //susbcription id will generate for subscription based payment
     "name": "<?php echo $plan_name; ?>",                                                          //pass static if not using any dynamic value
     "description": "<?php echo $plan_name; ?>  PLAN PAYMENT",             //pass static if not using any dynamic value
-    "image": "https://techhawa.com/images/logo.png",
+    "image": "https://cdn.razorpay.com/logo_invert.svg",                  //your logo url
     "handler": function (response){
           alert(response.razorpay_payment_id);                                                  //call back function
     },
