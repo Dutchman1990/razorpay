@@ -27,8 +27,8 @@ Array
     [bank] => 
     [wallet] => 
     [vpa] => 
-    [email] => nirjhar.mistry@maxmobility.biz
-    [contact] => +919836333484
+    [email] => nxxxxxxxxxx@mxxxxxxxxxy.biz
+    [contact] => +91xxxxxxxxxx
     [customer_id] => cust_BeTCiZYWWxd5HV
     [notes] => Array
         (
